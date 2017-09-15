@@ -1,0 +1,11 @@
+<track d="2">
+  <clip end="0.5">
+    <sine f="1000"/>
+  </clip>
+  <clip start="0.5" end="1">
+    <sine f="500"/>
+  </clip>
+  <clip start="1" end="2">
+    <sine f="1500"/>
+  </clip>
+</track>
