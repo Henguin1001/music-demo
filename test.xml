@@ -2,6 +2,9 @@
   <clip end="0.5">
     <sine f="1000"/>
   </clip>
+  <clip end="0.5">
+    <sine f="1500"/>
+  </clip>
   <clip start="0.5" end="1">
     <sine f="500"/>
   </clip>
