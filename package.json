@@ -4,7 +4,9 @@
   "description": "just a demo",
   "main": "index.js",
   "dependencies": {
-    "markto": "^1.2.2"
+    "csv": "^1.1.1",
+    "markto": "^1.2.2",
+    "twig": "^1.10.5"
   },
   "devDependencies": {},
   "scripts": {
